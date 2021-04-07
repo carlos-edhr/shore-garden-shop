@@ -1,0 +1,9 @@
+manage.py
+/shore_garden_shop/settings.py 
+/profiles/__pycache__
+/profiles/migrations
+/products/__pycache__
+/products/migrations
+/shore_garden_shop/__pycache__
+/shore_garden_shop/migrations
+db.sqlite3
